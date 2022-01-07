@@ -1,2 +1,2 @@
-![nacos](https://raw.githubusercontent.com/doatehz/note/master/img/nacos/nacos.png)
+![nacos](https://cdn.jsdelivr.net/gh/doatehz/note/img/nacos/nacos.png)
 
